@@ -1,5 +1,12 @@
 ### my bio is proverbs 16:3
+Meu nome é Heloisa
 
+- Estou estudando na Alura
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+@rhelocosta
+
+![https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F28hp&psig=AOvVaw1jYzlSihCIGR8me9xNF88d&ust=1684496739162000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCYxsHl_v4CFQAAAAAdAAAAABAc]()
 <!--
 **rheloisacosta/rheloisacosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
