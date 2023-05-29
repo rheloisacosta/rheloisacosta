@@ -8,7 +8,7 @@ Meu nome é Heloisa 💜
 
 ### entre em contato comigo: 
 
-![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rhelocosta/)
 heloisa.rodrigues.costa@escola.pr.gov.br
 
 @rhelocosta
